@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy! 👋 I'm Ryan Kafka
+
+[LinkedIn](https://www.linkedin.com/ryan-j-kafka/)
 
 <!--
 **rkafka/rkafka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
