@@ -16,5 +16,5 @@ I am from Chicago, IL and am currently living in Plano, TX. <br>
 I graduated from Texas A&M University's College of Engineering in May 2024 with a Master of Computer Science (M.C.S.) degree.
 
 ## Skills
-- Programming languages: [Python, C++, Java]
+- Programming languages: [Python, C#, C++, Java]
 - Frameworks & Libraries: [React]
